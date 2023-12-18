@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\kht95\\Documents\\UnrealPratice\\ARProject\\Source\\ARProject\\ARProject.Build.cs",
-		"C:\\Users\\kht95\\Documents\\UnrealPratice\\ARProject\\Source\\ARProject.Target.cs",
-		"C:\\Users\\kht95\\Documents\\UnrealPratice\\ARProject\\Source\\ARProjectEditor.Target.cs"
+		"/Users/gimhyeontag/unrealpra/FC_ARProject/ARProject/Source/ARProject/ARProject.Build.cs",
+		"/Users/gimhyeontag/unrealpra/FC_ARProject/ARProject/Source/ARProject.Target.cs",
+		"/Users/gimhyeontag/unrealpra/FC_ARProject/ARProject/Source/ARProjectEditor.Target.cs"
 	],
 	"EngineVersion": "5.3.2"
 }
